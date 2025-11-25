@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+    width: 1280px;
+
+}
+.header{
+top: 0px;
+left: 0px;
+width: 1280px;
+height: 73px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 1;
+padding: 1px;
+}
+.raleway-desc {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: lighter;
+  font-style: normal;
+}
+.titulo{
+    text-align: center;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+}
+
+.raleway{
+    text-align: center;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+
+
+}
+.titulo_icon{
+    text-align: center;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+    padding: 50px;
+    font-size: large;
+}
+main{
+    width: 100%;
+    display: block;
+    background: transparent url('../img/bg-header.jpg') 0% 0% no-repeat;
+}
+section{
+    display: flex;
+}
+p{
+    color: white;
+    text-align: left;
+}
+.caracteristicas{
+    margin: 76px;
+}
+.icon{
+    background-color: #1E1A13;
+    height: 348px;
+    font-family: "Raleway", sans-serif;
+        }
+.flex{
+        display: flex;
+        justify-content:space-around
+        }
+i{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.imagenes{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+
+
+}
+footer{
+    height: 102px;
+    background-color: #1E1A13;
+}
+footer p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 39px
+}
